@@ -6,4 +6,7 @@ Code a first version
 Fix issues
 Publish and maintain
 ## Credit
+Pictures:
+The Odin Project:
 ## Live Preview
+Battleship: 
